@@ -20,7 +20,7 @@ https://protonvpn.com/support/port-forwarding-manual-setup#linux
 
 - qBittorrent
 
-** NOTE: qBittorrent's settings will only be changed if it isn't running**
+**NOTE: qBittorrent's settings will only be changed if it isn't running**
 
 (i might look into transmission and deluge in the future, but i won't promise anything.)
 
